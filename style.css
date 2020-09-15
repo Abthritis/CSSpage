@@ -1,0 +1,30 @@
+  #title {
+          color: blue;
+          font-style: italic;
+          background: black;
+          font-size: 40px;
+  }
+  #second {
+      color: purple;
+      background-color: black;
+      font-style: italic;
+      
+  }
+  #third {
+      color:blue;
+      font-style: italic;
+      font-size: 35px;
+      background-color: black;
+  }
+  
+  p{
+    font-size: 25px;
+    color: white; 
+    background-color: black;
+    font-family: sans-serif
+  }
+  .container{
+    background-color: red;
+    font-family:Helvetica;
+  }
+
